@@ -1,0 +1,57 @@
+h1 {
+    background: white;
+}
+h2 {
+    background: blue;
+}
+h3 {
+    background: red;
+}
+.paragraph1 {
+    background: grey;
+    font-size: 18pt;
+    color: black;
+    border: 10px solid green;
+    border-radius: 10px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.paragraph2 {
+    background: grey;
+    font-size: 18pt;
+    color: black;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+.paragraph3 {
+    background: grey;
+    font-size: 18pt;
+    color: black;
+    border: 10px solid green;
+    border-radius: 10px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.list {
+    background: grey;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial Black;
+    border: 3px solid black;
+}
+.image {
+    border: 3px inset black;
+}
+.inscription {
+    font-size: 22px;
+    font-family: Arial Black;
+    margin-left: 780px;
+}
