@@ -21,11 +21,11 @@ h3 {
     padding-bottom: 20px;
 }
 .paragraph2 {
-    background: grey;
-    font-size: 18pt;
-    color: black;
-    border: 10px solid green;
-    border-radius: 10px;
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    font-family: Century Gothic;
+    text-shadow: 0 0 15px rgb(0, 128, 0);
 }
 .paragraph3 {
     background: grey;
